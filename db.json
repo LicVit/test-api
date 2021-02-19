@@ -1,0 +1,25 @@
+{
+    "fonts": [
+        {
+            "id": 123,
+            "url": "assets/test/Playbox-FREE.woff"
+        },
+        {
+            "id": 124,
+            "url": "assets/test/Dosis-Bold.woff"
+        },
+        {
+            "id": 125,
+            "url": "assets/test/Classic-Roman.woff"
+        },
+        {
+            "id": 126,
+            "url": "assets/test/Brush-Script.woff",
+			"bitmapFontUrl": "assets/test/Brush-Script/Brush-Script.json"
+        },
+        {
+            "id": 127,
+            "url": "assets/test/impact.woff"
+        }
+    ]
+}
